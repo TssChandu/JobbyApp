@@ -1,0 +1,23 @@
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #ffffff;
+}
+.not-found-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.not-found-heading {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
